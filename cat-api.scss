@@ -1,0 +1,11 @@
+$font-stack : helvetica, sans-serif;
+$primary-color : #C750B3;
+
+body {
+    font: 25px $font-stack;
+    color: $primary-color;
+    text-align: center;
+    img {
+        border-radius: 80px;
+    }
+}
